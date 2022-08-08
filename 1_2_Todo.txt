@@ -1,0 +1,4 @@
+1). Call, bind, apply  method. 
+2). 
+
+
